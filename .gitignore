@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+.pytest_cache/
+
+# Local databases & big raw data files
+data/*.db
+data/kaikki.org-dictionary-German.jsonl
+*.tmp
+
+# macOS
+.DS_Store
+
+# History
+.simple_wb_history
+.wbuch_history
+
+# Misc
+.env

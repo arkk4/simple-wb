@@ -1,0 +1,12 @@
+{
+  "name": "wbuch",
+  "version": "1.0.0",
+  "date": "2026-10-13",
+  "codename": "",
+  "logo": {
+    "pattern": "rings",
+    "palette": "#1a1b26,#7aa2f7,#bb9af7,#f7768e,#e0af68",
+    "shape": "squircle",
+    "font": "sans"
+  }
+}
